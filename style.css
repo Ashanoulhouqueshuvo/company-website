@@ -1,0 +1,27 @@
+#logo
+{
+width: 50%;
+padding: 5px 10px;
+margin: auto;
+border-radius:10%;
+
+
+
+}
+#text{
+    color: blue;
+    background-color: chocolate;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-align:center;
+}
+.row{
+    background-color: chocolate;
+}
+body{
+    background-image: url("image/inscription-are-you-ready-for-exams-woman-hold-marker-on-blue-background-study-and-exam-concept-2B6NTH7.jpg");
+}
+#login{
+    margin: 10px 10px;
+    padding-right: 10px;
+}
